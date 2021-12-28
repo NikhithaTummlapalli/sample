@@ -1,2 +1,2 @@
 # sample
-Sample project
+Sample project to be read
